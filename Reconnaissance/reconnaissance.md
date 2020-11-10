@@ -21,6 +21,7 @@
 > * Search Engines
 >> * Collect as much informartion available on the internet about the target
 > * Advanced Google Hacking Techniques
+>> * Refer Google Dorking section
 > * Social Networking sites
 > * Websites
 > * Email
