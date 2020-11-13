@@ -1,5 +1,26 @@
 # <center>Reconnaissance</center>
-> Collection of every possible information about the target
+
+## What is Reconnaissance...?
+> * Collection of every possible information about the target
+> * First and foremost step in the penetration testing
+
+## Why Reconnaissance...?
+> * Without the knowledge about the target it is not possible to do anything
+> * To Reduce the scope of the target
+
+## Types of Reconnaissance...
+> * Active Reconnaissance
+>> * 
+> * Passive Reconnaissance
+
+
+
+
+
+
+
+
+
 ## Reconnaissance can be divides as
 > * Footprinting
 >> * Passive information gathering about the target
