@@ -1,0 +1,14 @@
+POST /loginauth.php HTTP/1.1
+Host: theinquisitive.in
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: text/html, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://theinquisitive.in/
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 44
+Connection: close
+Cookie: _ga=GA1.2.309847735.1595615731; PHPSESSID=1cd841520daecbd9e98f5716fc6efb68; _gid=GA1.2.580343032.1605476228
+
+a=damareshwarakumar%40gmail.com&b=go_side_and_play
