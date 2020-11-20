@@ -19,3 +19,12 @@
  
 ## Reasons for SQL Injection vulnerability
 > Improper validation of user input before passing it to an SQL statement and server
+
+## Types of SQL Injection Attacks
+> * In-band SQL Injection
+>> Attacker uses the same communication channel to perform the attack
+> * Blind/Inferential SQL Injection 
+>> * Attacker has no error messages from the system to work on
+> * Out-of-band SQL Injection
+>> * Attacker uses different communication channels such as file writing, database email functionality etc.,
+![Types of SQL Injection](https://github.com/Dhamareshwarakumar/CEH_Prep/blob/be8d08ae9a82ce296a6d2113edb5bcb0c1bcf0f4/assets/types_of_sql_injection.png)
