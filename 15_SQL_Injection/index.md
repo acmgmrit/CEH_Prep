@@ -5,7 +5,7 @@
 > * In this technique, the attacker injects malicious SQL queries into the user input form 
 
 ## What SQLi attack can do...
-> * Gain unauthorized access to a database
+> * <b>Gain unauthorized access to a database</b>
 > * <b>Authentication bypass</b>
 >> An attacker can logs onto an application without providing valid username and password, and gains administrative priviliges
 > * <b>Information Disclosure</b>
@@ -21,10 +21,10 @@
 > Improper validation of user input before passing it to an SQL statement and server
 
 ## Types of SQL Injection Attacks
-> * In-band SQL Injection
+> * <b>In-band SQL Injection</b>
 >> Attacker uses the same communication channel to perform the attack
-> * Blind/Inferential SQL Injection 
+> * <b>Blind/Inferential SQL Injection</b> 
 >> * Attacker has no error messages from the system to work on
-> * Out-of-band SQL Injection
+> * <b>Out-of-band SQL Injection</b>
 >> * Attacker uses different communication channels such as file writing, database email functionality etc.,
-![Types of SQL Injection](https://github.com/Dhamareshwarakumar/CEH_Prep/blob/be8d08ae9a82ce296a6d2113edb5bcb0c1bcf0f4/assets/types_of_sql_injection.png)
+![Types of SQL Injection](../assets/types_of_sql_injection.png)
